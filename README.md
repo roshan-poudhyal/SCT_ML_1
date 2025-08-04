@@ -62,6 +62,3 @@ This task demonstrated practical machine learning workflow:
 from raw data preprocessing, feature engineering, visualization, to model building and evaluation – all done in a clean Jupyter Notebook environment.
 
 ---
-
-📌 _Note: The trained model is over 25MB and cannot be hosted directly on GitHub. Please use the Drive link above to access it._
-
